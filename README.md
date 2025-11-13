@@ -62,21 +62,3 @@ Open your web browser and go to the project URL, e.g.:
 ## 🔑 Default Login Information
 
 The default admin login credentials can be found in the studentrecord.sql file after importing the database.
-
-## 📁 Project Structure
-   ``` bash
-studentrecordms/
-├── SQL File/
-│   └── studentrecord.sql          # Database file
-├── includes/
-│   └── dbconnection.php           # Database connection file
-├── bower_components/              # Frontend dependencies
-├── dist/                          # CSS and JS files of the theme
-├── add-course.php
-├── add-subject.php
-├── admin-profile.php
-├── dashboard.php                  # Main dashboard
-├── index.php                      # Homepage / redirect
-├── login.php                      # Login page
-├── manage-students.php
-└── ... (other management files)
