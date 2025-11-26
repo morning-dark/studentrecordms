@@ -52,7 +52,7 @@ Open your web browser and go to the project URL (e.g., ```http://localhost:8080/
 
 The default admin login credentials can be found in the ```studentrecord.sql``` file after importing the database.
 
-## Projet structure
+## Project structure
 
 ```bash
 studentrecordms/
@@ -69,6 +69,6 @@ studentrecordms/
 ├── index.php               # Homepage/redirection
 ├── login.php               # Login page
 ├── manage-students.php
-├── ... (autres fichiers de gestion)
+├── ... (other management files)
 └── README.md
 ```
