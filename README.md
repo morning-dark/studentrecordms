@@ -57,17 +57,17 @@ The default admin login credentials can be found in the ```studentrecord.sql``` 
 ```bash
 studentrecordms/
 ├── SQL File/
-│   └── studentrecord.sql   # Fichier de la base de données
+│   └── studentrecord.sql   # Database file
 ├── includes/
-│   └── dbconnection.php    # Fichier de connexion à la base de données
-├── bower_components/       # Dépendances frontend
-├── dist/                   # Fichiers CSS et JS du thème
+│   └── dbconnection.php    # Database connection file
+├── bower_components/       # Frontend dependencies
+├── dist/                   # Theme CSS and JS files
 ├── add-course.php
 ├── add-subject.php
 ├── admin-profile.php
-├── dashboard.php           # Tableau de bord principal
-├── index.php               # Page d'accueil/redirection
-├── login.php               # Page de connexion
+├── dashboard.php           # Main dashboard
+├── index.php               # Homepage/redirection
+├── login.php               # Login page
 ├── manage-students.php
 ├── ... (autres fichiers de gestion)
 └── README.md
